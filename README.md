@@ -1,2 +1,2 @@
 # British-Airways-Data-Science-Forage
-Data Science | Data manipulation
+Data Science | Data manipulation | Data Visualization
