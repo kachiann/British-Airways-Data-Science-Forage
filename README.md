@@ -1,7 +1,7 @@
 # British-Airways-Data-Science-Forage
 Data Science | Data manipulation | Data Visualization
 ## Table of Contents
-[Task One: Web scraping to gain company insights](British-Airways-Dtat-Science-Forage/README.md)
+[Task One: Web scraping to gain company insights](README.md)
 
 Task Two: Predicting customer buying behaviour
 
