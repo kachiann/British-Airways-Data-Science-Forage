@@ -23,6 +23,6 @@ In this task, I scrape and analyze customer review data to uncover findings for 
 ### Task One Presentation
 
 ## Task Two: Predicting customer buying behavior <a name="task-two-predicting-customer-buying-behavior"></a>
-In this task, I build a predictive model to understand factors that influence buying behaviour
+In this task, I build a predictive model to understand factors that influence buying behaviour.
 
 ### Task Two Presentation
