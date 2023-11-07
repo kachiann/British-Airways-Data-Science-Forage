@@ -12,7 +12,7 @@ Data Science | Data manipulation | Data Visualization
 ## Introduction <a name="introduction"></a>
 The British Airways Data Science Virtual Internship offers a unique opportunity to engage in hands-on data science projects in partnership with British Airways. In this project, you will have the chance to acquire practical experience in tackling real-world data science challenges and utilizing machine learning methods on datasets related to the airline industry.
 
-Over the course of the internship, you will be involved in a variety of tasks, including data cleansing and preprocessing, exploratory data analysis, feature engineering, model creation and assessment, and more. This internship is carefully structured to enable you to enhance your data science expertise and acquire valuable insights into the airline sector.
+<!---Over the course of the internship, you will be involved in a variety of tasks, including data cleansing and preprocessing, exploratory data analysis, feature engineering, model creation and assessment, and more. This internship is carefully structured to enable you to enhance your data science expertise and acquire valuable insights into the airline sector.--->
 
 To begin your journey with the [British Airways Data Science Virtual Internship](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science), register for the program via the Forage website.
 
