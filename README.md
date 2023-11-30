@@ -21,7 +21,7 @@ In this task, I scraped and analyzed customer review data to uncover findings fo
 The primary outcomes of my analysis in the Jupyter Notebook have been shared in this document.
 
 ### Task One Presentation
-The summary of my findings is in this template. Within the slide, I've crafted visualizations and metrics to convey the findings effectively.
+The summary of my findings is in this [template](https://docs.google.com/presentation/d/1t3U0xZN3LkQUJwjmig79yqjeHQZeOaM7pmPgfIpApdg/edit?usp=sharing). Within the slide, I've crafted visualizations and metrics to convey the findings effectively.
 
 ## Task Two: Predicting customer buying behavior <a name="task-two-predicting-customer-buying-behavior"></a>
 In this task, I built a predictive model to understand factors that influence buying behavior.
