@@ -24,7 +24,7 @@ For this project we will
 - Parse HTML Code With Beautiful Soup, where Beautiful Soup is a Python library for parsing structured data.
 - Analyse the data collected. Given that the collected data is unstructured and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
 
-In our analysis, we incorporated Word Cloud and Topic Modeling. Additionally, Sentiment Analysis can be taken into consideration for a more comprehensive understanding.
+In my analysis, I incorporated Word Cloud and Topic Modeling. Additionally, Sentiment Analysis can be taken into consideration for a more comprehensive understanding.
 
 The primary outcomes of my analysis have been shared in this document. 
 
