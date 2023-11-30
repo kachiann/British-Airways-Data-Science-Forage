@@ -22,7 +22,7 @@ For this project, we will
 - Scape data from [Skytrax](https://www.airlinequality.com%5D).
 - Get the site’s HTML code into a Python script so that one can interact with it. For this task, we’ll use Python’s requests library.
 - Parse HTML Code With Beautiful Soup, where Beautiful Soup is a Python library for parsing structured data.
-- Analyse the data collected. Given that the collected data is unstructured and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
+- Analyse the data collected. Given that the collected data is messy and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
 
 In my analysis, I incorporated Word Cloud and Sentiment Analysis. Additionally, Topic Modeling can be taken into consideration for a more comprehensive understanding.
 
