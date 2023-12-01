@@ -13,13 +13,13 @@ Data Science | Data Manipulation | Data Visualization
 The British Airways Data Science Virtual Internship offers a unique opportunity to engage in hands-on data science projects in partnership with British Airways.
 <!---Over the course of the internship, you will be involved in a variety of tasks, including data cleansing and preprocessing, exploratory data analysis, feature engineering, model creation and assessment, and more. This internship is carefully structured to enable you to enhance your data science expertise and acquire valuable insights into the airline sector.--->
 
-To begin your journey with the [British Airways Data Science Virtual Internship](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science), register for the program via the Forage website.
+To begin your journey with the British Airways Data Science Virtual Internship, register for the program via the Forage [website](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science).
 
 
 ## Task One: Web scraping to gain company insights <a name="task-one-web-scraping-to-gain-insights-on-british-airways"></a>
 In this task, I scraped and analyzed customer review data to uncover findings for British Airways and presented my insights using PowerPoint. Web scraping involves extracting information from the Internet. 
 For this project, we will
-- Scape data from [Skytrax](https://www.airlinequality.com%5D).
+- Scape data from [Skytrax](https://www.airlinequality.com/).
 - Get the site’s HTML code into a Python script so that one can interact with it. For this task, we’ll use Python’s requests library.
 - Parse HTML Code With Beautiful Soup, where Beautiful Soup is a Python library for parsing structured data.
 - Analyse the data collected. Given that the collected data is messy and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
