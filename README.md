@@ -29,7 +29,7 @@ In my analysis, I incorporated Word Cloud and Sentiment Analysis. Additionally, 
 The primary outcomes of my analysis have been shared in this [Jupyter Notebook](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/Task%20One_Final.ipynb). 
 
 ### Task One Presentation
-The summary of my findings is in this [Powerpoint slides](https://docs.google.com/presentation/d/1t3U0xZN3LkQUJwjmig79yqjeHQZeOaM7pmPgfIpApdg/edit?usp=sharing). Within the slide, I've crafted visualizations and metrics to convey the findings effectively.
+The summary of my findings is in this [Powerpoint slides](https://docs.google.com/presentation/d/1t3U0xZN3LkQUJwjmig79yqjeHQZeOaM7pmPgfIpApdg/edit?usp=sharing). Within the slides, I've crafted visualizations and metrics to convey the findings effectively.
 
 ## Task Two: Predicting customer buying behavior <a name="task-two-predicting-customer-buying-behavior"></a>
 In this task, I built a predictive model to understand factors that influence buying behavior. 
