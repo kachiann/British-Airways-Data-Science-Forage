@@ -26,7 +26,7 @@ For this project, we will
 
 In my analysis, I incorporated Word Cloud and Sentiment Analysis. Additionally, Topic Modeling can be taken into consideration for a more comprehensive understanding.
 
-The primary outcomes of my analysis have been shared in this document. 
+The primary outcomes of my analysis have been shared in this [document](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/Task%20One_Final.ipynb). 
 
 ### Task One Presentation
 The summary of my findings is in this [template](https://docs.google.com/presentation/d/1t3U0xZN3LkQUJwjmig79yqjeHQZeOaM7pmPgfIpApdg/edit?usp=sharing). Within the slide, I've crafted visualizations and metrics to convey the findings effectively.
