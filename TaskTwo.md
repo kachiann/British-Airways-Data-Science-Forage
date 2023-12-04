@@ -10,4 +10,4 @@ In this project, I developed a predictive model aimed at comprehending the key f
 The primary outcomes of my analysis have been shared in this [Jupyter Notebook](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/TaskTwo_final.ipynb).
 
 ### Task Two Presentation
-Through carefully designed visualization incorporated within the [slide](https://drive.google.com/file/d/1oYD48oYPiH5K-Er2OTeXrcDAnfuzjCXc/view?usp=sharing), I aim to effectively communicate and present the key findings. This presentation serves as a comprehensive overview of the insights derived from the study, providing a visually compelling and informative representation of the data and analysis.
+Through carefully designed visualization incorporated within the [slide](https://docs.google.com/presentation/d/1PEic3Sv8sYsOcGIBhLKPJo0xhUhVrFDwoXr68ZqWDCI/edit?usp=sharing), I aim to effectively communicate and present the key findings. This presentation serves as a comprehensive overview of the insights derived from the study, providing a visually compelling and informative representation of the data and analysis.
