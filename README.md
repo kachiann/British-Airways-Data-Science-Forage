@@ -4,7 +4,7 @@ Data Science | Data Manipulation | Data Visualization
 <!--- [Task One: Web scraping to gain company insights](README.md) --->
 [Introduction](#introduction)
 
-[Task One: Web scraping to gain insights on British Airways](#task-one-web-scraping-to-gain-insights-on-british-airways)
+[Task One: Web scraping to gain insights on British Airways](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/TaskOne.md)
 
 [Task Two: Predicting customer buying behavior](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/TaskTwo.md)
 
