@@ -6,7 +6,7 @@ Data Science | Data Manipulation | Data Visualization
 
 [Task One: Web scraping to gain insights on British Airways](#task-one-web-scraping-to-gain-insights-on-british-airways)
 
-[Task Two: Predicting customer buying behavior](#task-two-predicting-customer-buying-behavior)
+[Task Two: Predicting customer buying behavior](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/TaskTwo.md)
 
 <!---Task Two: Predicting customer buying behavior --->
 ## Introduction <a name="introduction"></a>
