@@ -1,5 +1,5 @@
 ## Task One: Web scraping to gain company insights <a name="task-one-web-scraping-to-gain-insights-on-british-airways"></a>
-In this task, I scraped and analyzed customer review data to uncover findings for British Airways and presented my insights using PowerPoint. Web scraping involves extracting information from the Internet. 
+In this task, I scraped and analyzed customer review data to uncover findings for British Airways and presented my insights using PowerPoint. Web scraping involves extracting information from the Internet.
 For this project, we will
 - Scape data from [Skytrax](https://www.airlinequality.com/).
 - Get the site’s HTML code into a Python script so that one can interact with it. For this task, we’ll use Python’s requests library.
