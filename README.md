@@ -1,4 +1,4 @@
-# British-Airways-Data-Science-Forage
+# British Airways Data Science Projects
 Data Science | Data Manipulation | Data Visualization
 ## Table of Contents
 <!--- [Task One: Web scraping to gain company insights](README.md) --->
