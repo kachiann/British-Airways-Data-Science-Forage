@@ -1,10 +1,10 @@
 ## Task One: Web scraping to gain company insights <a name="task-one-web-scraping-to-gain-insights-on-british-airways"></a>
 In this task, I scraped and analyzed customer review data to uncover findings for British Airways, then used PowerPoint to present my findings. Web scraping is the process of obtaining information from the Internet.
-For this project, we will
-- Scape data from [Skytrax](https://www.airlinequality.com/).
-- Get the site’s HTML code into a Python script so that one can interact with it. For this task, we’ll use Python’s requests library.
-- Parse HTML Code with Beautiful Soup, where Beautiful Soup is a Python library for parsing structured data.
-- Analyse the data collected. Given that the collected data is messy and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
+The project involed the following
+- Scaping data from [Skytrax](https://www.airlinequality.com/).
+- Getting the site’s HTML code into a Python script so that one can interact with it. For this task, we’ll use Python’s requests library.
+- Parsing HTML Code with Beautiful Soup, where Beautiful Soup is a Python library for parsing structured data.
+- Analysing the data collected. Given that the collected data is messy and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
 
 In my analysis, I incorporated Word Cloud and Sentiment Analysis. Topic Modeling can also be considered for a more comprehensive analysis.
 
