@@ -1,11 +1,18 @@
 ## Task One: Web scraping to gain company insights <a name="task-one-web-scraping-to-gain-insights-on-british-airways"></a>
-In this task, I scraped and analyzed customer review data to uncover findings for British Airways, then used PowerPoint to present my findings. Web scraping is the process of obtaining information from the Internet.
-The project involed the following
-- Scaping data from [Skytrax](https://www.airlinequality.com/).
-- Getting the site’s HTML code into a Python script so that one can interact with it. For this task, we’ll use Python’s requests library.
-- Parsing HTML Code with Beautiful Soup, where Beautiful Soup is a Python library for parsing structured data.
-- Analysing the data collected. Given that the collected data is messy and predominantly text-based, it is crucial to perform data cleaning to prepare the data for analysis.
+In this task, I scraped and analyzed customer review data to uncover findings for British Airways, then used PowerPoint to present my findings. Web scraping is the process of obtaining information from the Internet. The project involved the following steps:
 
+- **Scraping Data from [Skytrax](https://www.airlinequality.com/)**: Extracting data directly from the Skytrax website.
+- **Fetching HTML Code**: Using Python’s `requests` library to retrieve the site's HTML code for interaction.
+- **Parsing HTML with Beautiful Soup**: Utilizing Beautiful Soup, a Python library, to parse and navigate the structured HTML data.
+- **Analyzing the Data**: Given the messy and text-heavy nature of the collected data, extensive data cleaning was necessary to prepare it for analysis. This process included:
+  - **Removing HTML Tags and Noise**: Stripping away unnecessary HTML tags and any irrelevant content to isolate the meaningful text.
+  - **Standardizing Text**: Converting text to a uniform format by lowercasing, removing punctuation, and correcting spelling errors to ensure consistency.
+  - **Tokenization and Stop Word Removal**: Breaking down text into individual tokens (words or phrases) and removing common stop words that do not contribute significant meaning to the analysis.
+  - **Word Cloud Visualization**: Creating word clouds to visualize the most frequently occurring words in the reviews, providing a quick and intuitive understanding of common themes and sentiments.
+  - **Sentiment Analysis**: Applying sentiment analysis techniques to determine the overall sentiment (positive, negative, neutral) of the reviews.
+  - **Exploratory Data Analysis (EDA)**: Conducting EDA to uncover patterns, trends, and insights within the data, using visualization tools and statistical techniques to summarize and understand the dataset.
+
+---
 In my analysis, I incorporated Word Cloud and Sentiment Analysis. Topic Modeling can also be considered for a more comprehensive analysis.
 
 This [Jupyter Notebook](https://github.com/kachiann/British-Airways-Data-Science-Forage/blob/main/Task%20One_Final.ipynb) contains the primary findings of my analysis.
